@@ -1,0 +1,16 @@
+---
+layout: post
+title: Entrada de prueba
+---
+
+Probando blog. 
+
+![_config.yml]({{ site.baseurl }}/images/imagen1.png)
+
+GitHub y Jekyll ofrecen la posibilidad de crear un blog de manera fácil y sencilla. Este blog es un ejemplo de ello.
+
+Jekyll es un software de creación de blogs státicos escrito en Ruby por Tom Preston-Werner, cofundador de GitHub, y se distribuye bajo la licencia de Código abierto MIT. Es por ello, que Jekyll se encuentra perfectamente integrado en GitHub. 
+
+Para más información: https://es.wikipedia.org/wiki/Jekyll_(computación)
+
+Si puedes ver esto es que lo ha salido bien.

@@ -1,2 +1,1 @@
-# JoseLQB.github.io
-Proyecto Jekyll para "Entornos de Desarrollo"
+Proyecto para la asignatura Entornos de Desarrollo.
