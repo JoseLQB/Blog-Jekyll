@@ -3,6 +3,8 @@ layout: post
 title: Inyección de dependencias con ejemplos
 ---
 
+```java
+
     public  class  Start  {
     
     public  static  void  main(String[]  args)  {
@@ -22,6 +24,8 @@ title: Inyección de dependencias con ejemplos
     }
     
     }
+    
+  
 
 Se crea un nuevo objeto “puerta” que tenga una “cerradura” de tipo “llave” por un lado y otro que tenga una cerradura de tipo “código”.
 
