@@ -53,4 +53,4 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme : jekyll-theme-leap-day
+remote_theme: jekyll-theme-leap-day
