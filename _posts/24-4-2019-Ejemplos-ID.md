@@ -1,4 +1,7 @@
-﻿# Inyección de dependendicas con ejemplos
+---
+layout: post
+title: Inyección de dependencias con ejemplos
+---
 
     public  class  Start  {
     
