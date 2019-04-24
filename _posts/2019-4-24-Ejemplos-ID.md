@@ -3,7 +3,6 @@ layout: post
 title: Inyección de dependencias con ejemplos
 ---
 
-```java
 
     public  class  Start  {
     
